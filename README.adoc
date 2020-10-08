@@ -1,0 +1,23 @@
+[[advanced-partner-enablement]]
+Advanced Partner Enablement
+--------------------------
+
+[[advanced-build-toc]]
+Table of Contents
+~~~~~~~~~~~~~~~~~
+
+* link:pages/intros.adoc[Intros]
+* link:pages/advanced_build_overview.adoc[Advanced Build Overview]
+* link:pages/areas_of_focus.adoc[Areas of Focus]
+* link:pages/accreditation_status.adoc[Accreditation Status]
+* link:pages/using_red_hat_rhpds.adoc[Using Red Hat Product Demo System (RHPDS)]
+* link:pages/partner_content_hub.adoc[Partner Content Hub]
+* link:pages/advanced_technical_training.adoc[Advanced Technical Training]
+* link:pages/poc_support_options.adoc[POC Support Options]
+* link:pages/red_hat_subs_review.adoc[Red Hat Subscriptions Review]
+* link:pages/software_access.adoc[Software Access]
+* link:pages/partner_support.adoc[Partner Support]
+* link:pages/red_hat_coe.adoc[Red Hat COE]
+* link:pages/partner_solutions.adoc[Partner Solutions]
+* link:pages/openshift_resources_and_demos.adoc[Openshift Resources and Demos]
+
