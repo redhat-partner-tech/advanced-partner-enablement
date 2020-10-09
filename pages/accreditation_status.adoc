@@ -1,6 +1,6 @@
 = Accreditation Status
 
-image::../images/Acred-Criteria.jpeg[Accreditation Requirements by Partner Level]
+image::images/Acred-Criteria.jpeg[Accreditation Requirements by Partner Level]
 
 Link to course catalog: link::https://www.redhat.com/en/partners/course_catalog
 
