@@ -53,7 +53,7 @@ image::images/new-pitch-menu.jpg[]
 
 By selecting the three dots on the right of the screen another popup shows up that allows a new pitch to be created and by selecting new pitch a popup is presented to the user that allows them to bundle content and either email it, send a link or present the material realtime to the customer.  Details of the customer accessing the content are captured and kept for analysis. 
 
-image::images/pitch-content-popup.jpg[]
+image::images/pitch-type-popup.jpg[]
 
 If *Email Pitch* is selected, content can then be added to the email using the plus sign on the right. 
 
