@@ -12,7 +12,7 @@ Advanced Build Program
 [.text-left]
 **What is the Advanced Build Program????	**
 
-NOTE: We have a team focused on **recruiting new value partners** into our ecosystem.  The partner is **fast-tracked** into our **Advanced Partner** tier by completing certain requirements.  These partners are **tasked with bringing Red Hat net new customers** and building net new bookings.
+NOTE: We have a team focused on **recruiting new value partners** into our ecosystem.  The partner is **fast-tracked** into our **Advanced Partner** tier by completing certain requirements and are **tasked with bringing Red Hat net new customers** and building net new bookings.
 
 
 =============================================================================
