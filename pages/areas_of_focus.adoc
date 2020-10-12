@@ -21,7 +21,7 @@ NOTE: You can get started with RHPDS by clicking this link:using_red_hat_rhpds.a
 
 If you are looking for a **complete list of Red Hat Reference Architectures** please visit the link below:
 
-link:https://access.redhat.com/documentation/en-us/reference_architectures/current/[Product Documentation for Reference Architectures Current release]
+* link:https://access.redhat.com/documentation/en-us/reference_architectures/current/[Product Documentation for Reference Architectures Current release]
 
 =============================================================================
 
@@ -34,11 +34,11 @@ Are you looking for information about Red Hat Subscriptions???
 The following links provide data around Red Hat subscriptions and their value!!!
 
 
-link:https://www.redhat.com/en/resources/red-hat-enterprise-linux-subscription-guide[Red Hat Enterprise Linux Subscription Guide ]
+* link:https://www.redhat.com/en/resources/red-hat-enterprise-linux-subscription-guide[Red Hat Enterprise Linux Subscription Guide ]
 
-link:https://www.redhat.com/en/about/subscription-model-faq[Subscription Model FAQ]
+* link:https://www.redhat.com/en/about/subscription-model-faq[Subscription Model FAQ]
 
-link:https://www.redhat.com/en/about/value-of-subscription[Value of a Red Hat Subscription]
+* link:https://www.redhat.com/en/about/value-of-subscription[Value of a Red Hat Subscription]
 
 =============================================================================
 
@@ -50,6 +50,6 @@ The **strength of Red Hat** is in our **community of passionate people** and the
 
 To see and search **all the Red Hat Blogs** click on the link below:
 
-link:https://www.redhat.com/en/all-blogs[All Red Hat Blogs]
+* link:https://www.redhat.com/en/all-blogs[All Red Hat Blogs]
 
 =============================================================================
