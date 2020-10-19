@@ -1,14 +1,32 @@
-[[advanced-partner-enablement]]
-Advanced Partner Enablement
---------------------------
+[[advanced-build-program]]
+Advanced Build Program
+----------------------
 
-[[advanced-build-toc]]
-Table of Contents
-~~~~~~~~~~~~~~~~~
+=============================================================================
+[.text-center]
+[big]##**Welcome to the NA Commercial Partners and Alliances team page!**##
+=============================================================================
 
-* link:pages/intros.adoc[Intros]
-* link:pages/advanced_build_overview.adoc[Advanced Build Overview]
-* link:pages/areas_of_focus.adoc[Areas of Focus]
+
+=============================================================================
+[.text-left]
+**What is the Advanced Build Program????	**
+
+NOTE: We have a team focused on **recruiting new value partners** into our ecosystem.  The partner is **fast-tracked** into our **Advanced Partner** tier by completing certain requirements and are **tasked with bringing Red Hat net new customers** and building net new bookings.
+
+
+=============================================================================
+
+=============================================================================
+Click on the links below to learn more about individual areas!!
+=============================================================================
+
+
+* link:pages/areas_of_focus.adoc[Areas of Focus for Partner]
+** Workshops
+** Reference Architectures
+** Subscription Guides
+** Key Blogs/Info
 * link:pages/accreditation_status.adoc[Accreditation Status]
 * link:pages/using_red_hat_rhpds.adoc[Using Red Hat Product Demo System (RHPDS)]
 * link:pages/partner_content_hub.adoc[Partner Content Hub]
@@ -20,4 +38,6 @@ Table of Contents
 * link:pages/red_hat_coe.adoc[Red Hat COE]
 * link:pages/partner_solutions.adoc[Partner Solutions]
 * link:pages/openshift_resources_and_demos.adoc[Openshift Resources and Demos]
+
+
 
