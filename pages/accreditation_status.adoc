@@ -2,6 +2,7 @@
 
 [.lead]
 *Executive commitment:* 
+
 * To build sustainable Red Hat business - ready to invest required internal resources
 * To build and execute comprehensive annual business plan with Red Hat to include:
 	* Training plan
