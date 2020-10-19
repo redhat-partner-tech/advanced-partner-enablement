@@ -1,6 +1,18 @@
 = Accreditation Status
 
-image::images/Acred-Criteria.jpg[Accreditation Requirements by Partner Level]
+Executive commitment: 
+* To build sustainable Red Hat business - ready to invest required internal resources
+* To build and execute comprehensive annual business plan with Red Hat to include:
+** Training plan
+** Engagement plan
+** Marketing plan
+** Net new targets
+* (5) Red Hat accreditations plus (1) ET authorization (Ansible or Openshift) within one year
+* 3 sales, 1 sales engineer, 1 delivery engineer (or second sales engineer)
+* (2) Red Hat solution demand gen campaigns per year (light touch by RHT - digital focus)
+* Annual revenue objective = $250K SYB New subs
+
+Partner must   1) have approved annual growth plan to qualify    2) complete minimum accreditation requirements for Advanced (1-2/1) within first 120 days and sell minimum $100K subs within one year in order to retain Advanced status and remain active in Advanced Build initiative    3) five accreditations must come from five different resources
 
 Link to course catalog: link::https://www.redhat.com/en/partners/course_catalog
 
