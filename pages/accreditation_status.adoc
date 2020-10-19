@@ -1,6 +1,7 @@
 = Accreditation Status
 
-Executive commitment: 
+[.lead]
+*Executive commitment:* 
 * To build sustainable Red Hat business - ready to invest required internal resources
 * To build and execute comprehensive annual business plan with Red Hat to include:
 	* Training plan
@@ -14,7 +15,9 @@ Executive commitment:
 
 Partner must   1) have approved annual growth plan to qualify    2) complete minimum accreditation requirements for Advanced (1-2/1) within first 120 days and sell minimum $100K subs within one year in order to retain Advanced status and remain active in Advanced Build initiative    3) five accreditations must come from five different resources
 
-Link to course catalog: link::https://www.redhat.com/en/partners/course_catalog
+*Link to course catalog:* 
+
+link::https://www.redhat.com/en/partners/course_catalog
 
 [.lead]
 Example Advanced Partner with Automation Accreditation
