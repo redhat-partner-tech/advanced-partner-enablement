@@ -34,6 +34,7 @@ Choose one of the following
    2 SALES - Red Hat Sales Specialist - I.T. Optimization
    1 SALES ENGINEER - Red Hat Sales Engineer Specialist - Platform
    1 DELIVERY - Red Hat Delivery Specialist – Platform
+
                                    *OR*
 
 *Option 2 - I.T. Automation + Management Track:* course names
