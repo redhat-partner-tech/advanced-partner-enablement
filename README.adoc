@@ -1,4 +1,4 @@
-= Advanced Partner Training
+= Advanced Partner Enablement
 ----------------------
 
 
@@ -10,7 +10,7 @@
 
 =============================================================================
 [.text-left]
-**What is Advanced Partner Training?	**
+**What is Advanced Partner Enablement?	**
 
 NOTE: We have a team focused on **delivering resources to partners** for training enablement.  The partner has **access** to these resources because they have  completed certain requirements, and are **tasked with bringing Red Hat net new customers** and building net new bookings.
 
