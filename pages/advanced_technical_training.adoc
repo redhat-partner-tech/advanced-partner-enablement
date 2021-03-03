@@ -1,1 +1,73 @@
 = Advanced Technical Training
+--------------------------------
+=============================================================================
+[.text-left]
+**Red Hat O.P.E.N. Training System Catalog**
+
+NOTE: Red Hat Online Partner Enablement Network (OPEN) helps partners build skills to generate more sales and enhance customer satisfaction. This training is complimentary for Red Hat Partners.
+=============================================================================
+=============================================================================
+**Click on the links below to gain access to each training category**
+====================================
+---
+=======================================
+
+=============================================================================
+**link:https://connect.redhat.com/en/training/course-catalog[Role-based Accreditations:]**
+=============================================================================
+- Red Hat Sales Specialist
+==============================================================================
+- Red Hat Sales Engineer Specialist
+===========================================================
+- Red Hat Delivery Specialist
+===========================================================
+**link:https://connect.redhat.com/en/training/course-catalog[Product Enablement:]** 
+===========================================================
+- Red Hat Openshift Container Platform 
+===================================================
+- Red Hat Ansible Automation Platform
+===================================================
+- Red Hat Openstack Platform
+===================================
+- Red Hat Enterprise Linux 
+==============================
+- Red Hat Virtualization
+==============================
+- Red Hat Storage 
+===============================
+- Red Hat Runtimes 
+=============================
+- Red Hat Integration 
+=============================
+- Red Hat Process Automation
+=============================
+**link:https://redhat.highspot.com/items/5f2d691c60e9cc25aef607d7?lfrm=srp.1[Advanced "Level 2" Sales Training]**
+
+NOTE: This training is around sales with the three categories below. Click on the link for Advanced "Level 2" Sales Training to learn more about how to schedule and register for the provided learning paths. 
+ 
+========================
+- Cloud Native Development
+========================================
+- Automation and Management 
+==============================
+- Hybrid Cloud 
+================================
+
+**link:https://redhat.highspot.com/items/5e7a65f1429d7b76a2fd7635?lfrm=srp.0#16[Advanced "Level 2" Delivery Training]**
+
+NOTE: This traininig involves the best practices around enforcing Red Hat Solutions . The training is the same as what Red Hat Consultants recieve. Example courses are listed below.
+
+===============================
+- Advanced Application Management using Red Hat Service Mesh 
+===================================
+- Advanced Deployment with Red Hat Ansible Automation 
+==============================
+- Advanced Red Hat OpenShift Container Platform Deployment and Management 
+================================
+- Advanced Networking with Red Hat OpenStack Platform 
+================================
+- Advanced Application Deployment with Red Hat Openshift Container Platform 
+=============================
+**link:https://www.redhat.com/en/services/training/learning-subscription[Red Hat Learning Subcription]**
+
+NOTE: Fill skills gaps and address business challenges by taking advantage of unlimited access to our comprehensive curriculum on Red Hat solutions. Click on the Red Hat Learning Subscription link to learn more. 
