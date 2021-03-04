@@ -41,6 +41,6 @@ Click on the links below to learn more about individual areas!!
 
 ================================================================================
 
-NOTE: If you have **General Support/Questions** regarding Red Hat and partner information, or if you have **Proof of Concept** request email mailto:na-partner-tech@redhat.com?subject=[na-partner-tech@redhat.com] .
+NOTE: If you have **General Support/Questions** regarding Red Hat and partner information, or if you have a **Proof of Concept** request email mailto:na-partner-tech@redhat.com?subject=[na-partner-tech@redhat.com] .
 
 
