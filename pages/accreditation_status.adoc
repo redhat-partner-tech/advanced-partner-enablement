@@ -1,5 +1,8 @@
 = Accreditation Status
 
+NOTE: Accreditation requirements for **Ready, Advanced and Premier** partner tier levels are link:https://connect.redhat.com/sites/default/files/legacy/files/programs_RH_solution_provider_NA.pdf?v=3[here] .
+
+
 [.lead]
 *Executive commitment:* 
 
@@ -14,11 +17,18 @@
 * (2) Red Hat solution demand gen campaigns per year (light touch by RHT - digital focus)
 * Annual revenue objective = $250K SYB New subs
 
-Partner must:   
 
-1) have approved annual growth plan to qualify    
-2) complete minimum accreditation requirements for Advanced (1-2/1) within first 120 days and sell minimum $100K subs within one year in order to retain Advanced status and remain active in Advanced Build initiative    
+**Advanced Build Partner Requirements**:   
+================================================
+1) have approved annual growth plan to qualify 
+=================================================
+2) complete minimum accreditation requirements for Advanced (1-2/1) within first 120 days and sell minimum $100K
+subs within one year in order to retain Advanced status and remain active in Advanced Build initiative.
+=================================================
 3) five accreditations must come from five different resources
+=================================================
+
+**Premier Partner Requirements** 
 
 *Link to course catalog:* 
 
