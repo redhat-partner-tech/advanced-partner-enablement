@@ -39,5 +39,8 @@ Click on the links below to learn more about individual areas!!
 * link:pages/partner_solutions.adoc[Partner Solutions]
 * link:pages/openshift_resources_and_demos.adoc[Openshift Resources and Demos]
 
+================================================================================
+
+NOTE: If you have **General Support/Questions** regarding Red Hat and partner information, or if you have **Proof of Concept** request email mailto:na-partner-tech@redhat.com?subject=[na-partner-tech@redhat.com] .
 
 
