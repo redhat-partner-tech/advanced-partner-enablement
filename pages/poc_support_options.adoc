@@ -7,20 +7,20 @@ NOTE: **Overall Goal**: Red Hat Partners have the skills/support to ensure custo
 
 **Partner-Delivered**: 
 ==============================
-- _Partner delivers Proof Of Concept._
+- Partner delivers Proof Of Concept.
 ==================================
-- _Red Hat answers any questions the partner may have._
+- Red Hat answers any questions the partner may have.
 
 **Partner-Delivered / Red Hat Assisted**: 
 ========================================
-- _Partner delievers POC and recieves Red Hat Partner SA engagement._
+- Partner delievers POC and recieves Red Hat Partner SA engagement.
 ========================================
-- _This requires an SoW/Scope and Success Criteria Review._
+- This requires an SoW/Scope and Success Criteria Review.
 
 **Red Hat Delivered / Partner Assisted**
 ================================
-- _Red Hat Delievers POC, and Partner assists._
+- Red Hat Delievers POC, and Partner assists.
 ==========================
-- _Send requests to mailto:na-partner-tech@redhat.com?subject=[na-partner-tech@redhat.com] ._
+- Send requests to mailto:na-partner-tech@redhat.com?subject=[na-partner-tech@redhat.com].
 ====================================
-- _Standardized POC's Offered: Ansible on Public Cloud, Openshift on Public Cloud & Smart Management._
+- Standardized POC's Offered: Ansible on Public Cloud, Openshift on Public Cloud & Smart Management.
