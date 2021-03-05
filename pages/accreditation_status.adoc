@@ -23,7 +23,8 @@ NOTE: Accreditation requirements for **Ready, Advanced and Premier** partner tie
 
 
 
-**Advanced Build Partner Requirements**:   
+= Advanced Build Partner Requirements   
+
 
 ================================================
 - **Designated skills :** _Minimum of 1_
@@ -53,9 +54,15 @@ plan_
 - **Engagement plan:** _Yes, per business plan_ 
 ==================================================
 - **Training/Enablement Plan:** _Yes_
-==================================================
 
-**Premier Partner Requirements:**
+
+
+
+
+
+
+## Premier Partner Requirements
+
 ================================================
 - **Designated skills :** _Minimum of 1_
 =================================================
