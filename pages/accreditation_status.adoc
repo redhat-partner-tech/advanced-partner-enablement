@@ -54,39 +54,38 @@ plan_
 - **Engagement plan:** _Yes, per business plan_ 
 ==================================================
 - **Training/Enablement Plan:** _Yes_
-
-
-
-
-
-
-
-## Premier Partner Requirements
-
 ================================================
-- **Designated skills :** _Minimum of 1_
+
+
+
+
+
+= Premier Partner Requirements
+
+
+- **Designated skills :** _Minimum of 2_
 =================================================
 - **Minimum number of Red Hat
-Accredited Sales Specialists:** _2**_
+Accredited Sales Specialists:** _4**_
 =================================================
 - **Minimum number of Red Hat
-Accredited Sales Engineer Specialists:** _1_
+Accredited Sales Engineer Specialists:** _2_
 =================================================
 - **Active participation in marketing
 programs
 :** _Yes_
 ================================================
-- **Customer success story submissions:** _1 per year_
+- **Customer success story submissions:** _2 per year_
 ================================================
 - **Approved 12-month business plan:** _Yes_ 
 ==================================================
 - **Annual Red Hat revenue target
-achievement:** _100,000 USD_
+achievement:** _150,000 USD_
 =================================================
 - **Net-new business targets:** _Yes, per business
 plan_
 ==================================================
-- **Working lab:** _No_
+- **Working lab:** _Yes_
 ===================================================
 - **Engagement plan:** _Yes, per business plan_ 
 ==================================================
