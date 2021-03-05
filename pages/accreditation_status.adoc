@@ -95,9 +95,9 @@ plan_
 link:https://www.redhat.com/en/partners/course_catalog[Partner Course Caalog]
 
 [.lead]
-Example Advanced Partner with Automation Accreditation
+_Example Advanced Partner with Automation Accreditation_
 
-Choose one of the following
+_Choose one of the following_
 
 *Option 1 - I.T. Optimization Track:* course names
 
