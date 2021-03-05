@@ -3,24 +3,6 @@
 NOTE: Accreditation requirements for **Ready, Advanced and Premier** partner tier levels are link:https://connect.redhat.com/sites/default/files/legacy/files/programs_RH_solution_provider_NA.pdf?v=3[here] .
 
 
-[.lead]
-*Executive commitment:* 
-
-* To build sustainable Red Hat business - ready to invest required internal resources
-* To build and execute comprehensive annual business plan with Red Hat to include:
-	** Training plan
-	** Engagement plan
-	** Marketing plan
-	** Net new targets
-* (5) Red Hat accreditations plus (1) ET authorization (Ansible or Openshift) within one year
-* 3 sales, 1 sales engineer, 1 delivery engineer (or second sales engineer)
-* (2) Red Hat solution demand gen campaigns per year (light touch by RHT - digital focus)
-* Annual revenue objective = $250K SYB New subs
-
-
-
-
-
 
 
 = Advanced Build Partner Requirements   
