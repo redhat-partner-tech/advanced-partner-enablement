@@ -93,10 +93,7 @@ plan_
 ==================================================
 
 
-
-
-
-**Examples of Advanced Partner with Automation Accreditation**
+NOTE: _Below are examples of Advanced Partner with Automation Accreditation. If you want to see more of Red Hat Advanced Partner Course Catalog, click link:https://www.redhat.com/en/partners/course_catalog[here] ._
 =====================================
 
 _Choose one of the following_
@@ -114,9 +111,7 @@ _Choose one of the following_
    2 SALES – Red Hat Sales Specialist - I.T. Automation & Management
    1 SALES ENGINEER – Red Hat Sales Engineer Specialist - Automation
    1 DELIVERY - Red Hat Delivery Specialist - Automation I
-==========================
-link:https://www.redhat.com/en/partners/course_catalog[Partner Course Catalog]
-==============================================
+================================
 
 *For more details please reach out to Partner Account Manager*
 
