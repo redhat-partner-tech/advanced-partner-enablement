@@ -1,1 +1,26 @@
 = POC Support Options
+
+
+
+
+NOTE: **Overall Goal**: Red Hat Partners have the skills/support to ensure customer success.
+
+**Partner-Delivered**: 
+==============================
+- _Partner delivers Proof Of Concept._
+==================================
+- _Red Hat answers any questions the partner may have._
+
+**Partner-Delivered / Red Hat Assisted**: 
+========================================
+- _Partner delievers POC and recieves Red Hat Partner SA engagement._
+========================================
+- _This requires an SoW/Scope and Success Criteria Review._
+
+**Red Hat Delivered / Partner Assisted**
+================================
+- _Red Hat Delievers POC, and Partner assists._
+==========================
+- _Send requests to mailto:na-partner-tech@redhat.com?subject=[na-partner-tech@redhat.com] ._
+====================================
+- _Standardized POC's Offered: Ansible on Public Cloud, Openshift on Public Cloud & Smart Management._
