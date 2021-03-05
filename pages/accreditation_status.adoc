@@ -96,8 +96,7 @@ plan_
 
 
 
-[.lead]
-NOTE: _Below are Examples of Advanced Partner with Automation Accreditation_
+**Examples of Advanced Partner with Automation Accreditation**
 =====================================
 
 _Choose one of the following_
