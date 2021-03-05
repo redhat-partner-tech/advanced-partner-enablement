@@ -1,6 +1,6 @@
 = Accreditation Status
 
-NOTE: Accreditation requirements for **Ready, Advanced and Premier** partner tier levels are link:https://connect.redhat.com/sites/default/files/legacy/files/programs_RH_solution_provider_NA.pdf?v=3[here] .
+NOTE: Accreditation requirements for **Ready, Advanced and Premier** partner tier levels are link:https://connect.redhat.com/sites/default/files/legacy/files/programs_RH_solution_provider_NA.pdf?v=3[here].
 
 
 
