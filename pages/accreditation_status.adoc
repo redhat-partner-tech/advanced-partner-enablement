@@ -18,16 +18,44 @@ NOTE: Accreditation requirements for **Ready, Advanced and Premier** partner tie
 * Annual revenue objective = $250K SYB New subs
 
 
+
+
+
+
+
 **Advanced Build Partner Requirements**:   
 ================================================
-**1.)** Have approved annual growth plan to qualify 
+**Designated skills :** Minimum of 1
 =================================================
-**2.)** Complete minimum accreditation requirements for Advanced (1-2/1) within first 120 days and sell minimum $100K subs within one year in order to retain Advanced status and remain active in Advanced Build initiative.
+**Minimum number of Red Hat
+Accredited Sales Specialists:** 2**
 =================================================
-**3.)** Five accreditations must come from five different resources
+**Minimum number of Red Hat
+Accredited Sales Engineer Specialists:** 1
 =================================================
+**Active participation in marketing
+programs
+:** Yes
+================================================
+**Customer success story submissions:** 1 per year
+================================================
+**Approved 12-month business plan:** Yes 
+==================================================
+**Annual Red Hat revenue target
+achievement:** 100,000 USD
+=================================================
+**Net-new business targets:** Yes, per business
+plan
+==================================================
+**Working lab:** No
+===================================================
+**Engagement plan:** Yes, per business plan 
+==================================================
+**Training/Enablement Plan:** Yes
+==================================================
 
-**Premier Partner Requirements** 
+**Premier Partner Requirements:**
+1.)
 
 *Link to course catalog:* 
 
