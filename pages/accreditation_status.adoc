@@ -92,11 +92,7 @@ plan_
 - **Training/Enablement Plan:** _Yes_
 ==================================================
 
-
-
-*Link to course catalog:* 
-
-link::https://www.redhat.com/en/partners/course_catalog
+link:https://www.redhat.com/en/partners/course_catalog[Partner Course Caalog]
 
 [.lead]
 Example Advanced Partner with Automation Accreditation
