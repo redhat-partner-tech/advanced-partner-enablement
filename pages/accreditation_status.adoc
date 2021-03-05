@@ -92,13 +92,14 @@ plan_
 - **Training/Enablement Plan:** _Yes_
 ==================================================
 
-link:https://www.redhat.com/en/partners/course_catalog[Partner Course Catalog]
+
 
 
 
 [.lead]
-NOTE: _Example Advanced Partner with Automation Accreditation_
+NOTE: _Below are Examples of Advanced Partner with Automation Accreditation_
 =====================================
+
 _Choose one of the following_
 
 *Option 1 - I.T. Optimization Track:* course names
@@ -114,6 +115,9 @@ _Choose one of the following_
    2 SALES – Red Hat Sales Specialist - I.T. Automation & Management
    1 SALES ENGINEER – Red Hat Sales Engineer Specialist - Automation
    1 DELIVERY - Red Hat Delivery Specialist - Automation I
+==========================
+link:https://www.redhat.com/en/partners/course_catalog[Partner Course Catalog]
+==============================================
 
 *For more details please reach out to Partner Account Manager*
 
