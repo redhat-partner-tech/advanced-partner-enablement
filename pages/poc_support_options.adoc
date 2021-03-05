@@ -3,7 +3,7 @@
 
 
 
-NOTE: **Overall Goal**: Red Hat Partners have the skills/support to ensure customer success.
+NOTE: **Overall Goal**: _Red Hat Partners have the skills/support to ensure customer success._
 
 **Partner-Delivered**: 
 ==============================
