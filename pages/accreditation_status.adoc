@@ -24,34 +24,35 @@ NOTE: Accreditation requirements for **Ready, Advanced and Premier** partner tie
 
 
 **Advanced Build Partner Requirements**:   
+
 ================================================
-**Designated skills :** Minimum of 1
+- **Designated skills :** Minimum of 1
 =================================================
-**Minimum number of Red Hat
+- **Minimum number of Red Hat
 Accredited Sales Specialists:** 2**
 =================================================
-**Minimum number of Red Hat
+- **Minimum number of Red Hat
 Accredited Sales Engineer Specialists:** 1
 =================================================
-**Active participation in marketing
+- **Active participation in marketing
 programs
 :** Yes
 ================================================
-**Customer success story submissions:** 1 per year
+- **Customer success story submissions:** 1 per year
 ================================================
-**Approved 12-month business plan:** Yes 
+- **Approved 12-month business plan:** Yes 
 ==================================================
-**Annual Red Hat revenue target
+- **Annual Red Hat revenue target
 achievement:** 100,000 USD
 =================================================
-**Net-new business targets:** Yes, per business
+- **Net-new business targets:** Yes, per business
 plan
 ==================================================
-**Working lab:** No
+- **Working lab:** No
 ===================================================
-**Engagement plan:** Yes, per business plan 
+- **Engagement plan:** Yes, per business plan 
 ==================================================
-**Training/Enablement Plan:** Yes
+- **Training/Enablement Plan:** Yes
 ==================================================
 
 **Premier Partner Requirements:**
