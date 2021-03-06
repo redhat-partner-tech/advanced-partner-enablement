@@ -1,1 +1,18 @@
-= Red Hat Subscriptions Review
+= Red Hat Partner Subscription Review
+
+_This section has information regarding subscriptions for the Partner._ 
+
+
+= Overall Process
+===================
+**1.)** Have redhat.com account  (required for Partner Connect access)
+=======================================
+**2.)** Submit Not For Resale request
+==========================================
+**3.)** Once approved, software shows up for download at https://access.redhat.com/management
+
+NOTE: **YOU CANNOT USE PERSONAL ACCOUNTS FOR A PARTNER SUBSCRIPTION. MUST USE A CORPORATE ACCOUNT.**
+===============================
+- If checking a existing partner user/redhat.com -- look in Supportable to ensure they have a Corporate Account.
+================================
+- For a given account (customer or partner) there can be multiple contracts, account admins, etc. -- check Supportable.
