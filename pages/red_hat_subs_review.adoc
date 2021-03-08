@@ -8,7 +8,23 @@ _This section has information regarding subscriptions for the Partner._
 **1.)** Have redhat.com account  (required for Partner Connect access)
 =======================================
 **2.)** Submit Not For Resale request
+=======================================
+- link:https://access.link:redhat.com/solutions/5181471[What are 'Not for Resale' (NFR) subscriptions?]
+===============================================
+- link:https://redhat.highspot.com/items/5a8f2362f21676165cb39313[Not-For-Resale Subscription Guide For Partners-June 2019]
 ==========================================
+Use Cases: 
+=======================
+- Partner solution testing 
+========================
+- Partners learning to implement or integrate Red Hat technologies 
+========================
+- Partners supporting the end customers 
+========================
+- Partners that offer customer demos in-house or on-site
+========================
+**Most NFRs are self-support. NFR Entitlement to Customer Entitlement.**
+============================
 **3.)** Once approved, software shows up for download at https://access.redhat.com/management
 
 NOTE: **YOU CANNOT USE PERSONAL ACCOUNTS FOR A PARTNER SUBSCRIPTION. MUST USE A CORPORATE ACCOUNT.**
@@ -16,3 +32,5 @@ NOTE: **YOU CANNOT USE PERSONAL ACCOUNTS FOR A PARTNER SUBSCRIPTION. MUST USE A 
 - If checking a existing partner user/redhat.com -- look in Supportable to ensure they have a Corporate Account.
 ================================
 - For a given account (customer or partner) there can be multiple contracts, account admins, etc. -- check Supportable.
+
+
