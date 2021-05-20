@@ -4,16 +4,8 @@
 
 =============================================================================
 [.text-center]
-[big]##**Welcome to the NA Commercial Partners and Alliances team page!**##
+[big]##**Welcome to the NA Commercial Partners and Alliances team page. This site catalogs all the tools, resources and information need by an advanced partner to build/sell/deliver Red Hat solutions.**##
 =============================================================================
-
-
-=============================================================================
-[.text-left]
-**What is Advanced Partner Enablement?	**
-
-NOTE: We have a team focused on **delivering resources to partners** for training enablement.  The partner has **access** to these resources because they have  completed certain requirements, and are **tasked with bringing Red Hat net new customers** and building net new bookings.
-
 
 =============================================================================
 
@@ -22,7 +14,7 @@ Click on the links below to learn more about individual areas!!
 =============================================================================
 
 
-* link:pages/areas_of_focus.adoc[Areas of Focus for Partner]
+* link:pages/areas_of_focus.adoc[Key content]
 ** Workshops
 ** Reference Architectures
 ** Subscription Guides
@@ -33,7 +25,7 @@ Click on the links below to learn more about individual areas!!
 * link:pages/advanced_technical_training.adoc[Advanced Technical Training]
 * link:pages/poc_support_options.adoc[POC Support Options]
 * link:pages/red_hat_subs_review.adoc[Red Hat Subscriptions Review]
-* link:pages/software_access.adoc[Software Access]
+* link:pages/software_access.adoc[Software Access/NFR]
 * link:pages/partner_support.adoc[Partner Support]
 * link:pages/red_hat_coe.adoc[Red Hat COE]
 * link:pages/partner_solutions.adoc[Partner Solutions]
