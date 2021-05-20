@@ -14,6 +14,7 @@ Click on the links below to learn more about individual areas:
 =============================================================================
 
 
+* link:pages/red_hat_partner_connect.adoc[Red Hat Partner Connect]
 * link:pages/areas_of_focus.adoc[Key content]
 ** Workshops
 ** Reference Architectures
