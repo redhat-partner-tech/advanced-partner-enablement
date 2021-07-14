@@ -1,4 +1,4 @@
-= Areas of Focus
+= Key Content
 
 
 
@@ -6,7 +6,7 @@
 [.text-left]
 [big]##**+++<u>Workshops</u>+++**##
 
-As a member of the **Advanced Partner Enablement** organization you will have access to the **Red Hat Product Demo System (RHPDS)**, a tool exclusive to Red Hat employees and Red Hat partners.
+**Red Hat Product Demo System (RHPDS)**, a tool exclusive to Red Hat employees and Red Hat partners.
 
 This tool contains **Content created by Red Hat technical experts** and **spans the entire Red Hat product portfolio**,  including multi-product solutions.
 
