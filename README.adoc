@@ -16,7 +16,7 @@ Click on the links below to learn more about individual areas:
 
 * link:pages/red_hat_partner_connect.adoc[Red Hat Partner Connect]
 * link:pages/areas_of_focus.adoc[Key content]
-** Workshops link:pages/using_red_hat_rhpds.adoc[(Using Red Hat Product Demo System (RHPDS))]
+** Workshops ( link:pages/using_red_hat_rhpds.adoc[Using Red Hat Product Demo System (RHPDS)] )
 ** Reference Architectures
 ** Subscription Guides
 ** Key Blogs/Info
