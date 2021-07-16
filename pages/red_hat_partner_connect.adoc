@@ -48,4 +48,4 @@ image::images/hybrid_cloud.jpg[Hybrid Cloud]
 [.lead]
 To quickly find and enroll in the *Sales Engineer* Learning Path, on the left under *Delivery Method*, click the box next to *Learning Path*, on the left under *Categories -- Skill*, click on *Automation* and then in the filter box, type in *Sales Engineer*. Once the results are displayed, click on enroll for the *Sales Engineer* Learning Path item.
 
-image::images/automation_learning_path.jpg
+image::images/automation_learning_path.jpg[]
