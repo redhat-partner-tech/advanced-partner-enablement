@@ -5,7 +5,7 @@
 As a Partner this is where you can become part of our campaigns to cut through the noise of today's marketing environments. We'll help you differentiate your brand as an open source partner and provide training every step of the way.
 
 [.lead]
-To access Partner Training goto link:https://www.redhat.com/en[https://www.redhat.com/en^] and click on the "Websites" link (see image below).
+To access Partner Training go to link:https://www.redhat.com/en[https://www.redhat.com/en^] and click on the "Websites" link (see image below).
 
 image::images/partner_connect.jpg[Partner Connect]
 
