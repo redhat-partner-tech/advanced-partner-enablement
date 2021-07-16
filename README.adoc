@@ -17,11 +17,11 @@ Click on the links below to learn more about individual areas:
 * link:pages/red_hat_partner_connect.adoc[Red Hat Partner Connect]
 * link:pages/areas_of_focus.adoc[Key content]
 ** Workshops
+*** link:pages/using_red_hat_rhpds.adoc[Using Red Hat Product Demo System (RHPDS)]
 ** Reference Architectures
 ** Subscription Guides
 ** Key Blogs/Info
 * link:pages/accreditation_status.adoc[Accreditation Status]
-* link:pages/using_red_hat_rhpds.adoc[Using Red Hat Product Demo System (RHPDS)]
 * link:pages/partner_content_hub.adoc[Partner Content Hub]
 * link:pages/advanced_technical_training.adoc[Advanced Technical Training]
 * link:pages/poc_support_options.adoc[POC Support Options]
