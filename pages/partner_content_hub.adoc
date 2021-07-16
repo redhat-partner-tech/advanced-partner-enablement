@@ -39,7 +39,7 @@ The *Spots* provide yet another grouping for content. The *Content Spot* section
 
 The *Partner Content Hub Cheatsheet* covering many handy tips to mining the site for relevant content and it is located at the following address:  
 
-link::https://redhat-partner.highspot.com/items/5972605272ad8e32c9d4f6d6
+https://redhat-partner.highspot.com/items/5972605272ad8e32c9d4f6d6
 
 image::images/content-hub-main-menu.jpg[]
 
