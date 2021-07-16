@@ -4,7 +4,7 @@ image::images/content-hub-welcome-start-here.jpg[]
 
 The *Partner Content Hub* is a document management system which is a huge repository for useful information. The content hub can be found at:
 
-link::https://redhat-partner.highspot.com
+https://redhat-partner.highspot.com
 
 It requires the user to log into the application.
 
