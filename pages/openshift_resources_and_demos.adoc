@@ -2,7 +2,7 @@
 
 Openshift Demos and Workshops:
 
-* https://demo.openshift.com/en/latest/
+* https://demo.openshift.com
 
 
 
