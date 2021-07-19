@@ -1,13 +1,4 @@
 = Ansible Resources https://www.ansible.com
 
-Openshift Demos and Workshops:
-
-* https://demo.ansible.com
-
-
-
-Openshift Interactive Learning Portal:
-
-* https://learn.ansible.com/
 
 
