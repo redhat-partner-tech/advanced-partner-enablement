@@ -1,1 +1,8 @@
-= Openshift Resources and Demos
+= Openshift Resources
+
+* Openshift Demos and Workshops:
+https://demo.openshift.com/en/latest/
+
+* Openshift Interactive Learning Portal:
+https://learn.openshift.com/
+
