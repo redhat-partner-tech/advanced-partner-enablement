@@ -1,4 +1,4 @@
-= Openshift Resources
+= Openshift Resources https://www.openshift.com
 
 Openshift Demos and Workshops:
 
