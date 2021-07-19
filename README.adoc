@@ -30,6 +30,7 @@ Click on the links below to learn more about individual areas:
 * link:pages/red_hat_coe.adoc[Red Hat COE]
 * link:pages/partner_solutions.adoc[Partner Solutions]
 * link:pages/openshift_resources_and_demos.adoc[Openshift Resources and Demos]
+* link:pages/ansible_resources_and_demos.adoc[Ansible Resources and Demos]
 
 ================================================================================
 
