@@ -1,6 +1,8 @@
 
 * link:openshift_resources_and_demos.adoc[OCP (Openshift Container Platform)]
- Openshift is a container platform for Kubernetes. You can use Openshift when you want to build, develop, and deploy business-critical applications quickly and securely. 
+
+Openshift is a container platform for Kubernetes. You can use Openshift when you want to build, develop, and deploy business-critical applications quickly and securely. 
+
 * link:ansible_resources_and_demos.adoc[Ansible]
 // rhel
 // satellite
