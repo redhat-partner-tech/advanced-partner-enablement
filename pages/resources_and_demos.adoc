@@ -1,3 +1,3 @@
 
-* link:pages/openshift_resources_and_demos.adoc[Openshift]
-* link:pages/ansible_resources_and_demos.adoc[Ansible]
+* link:openshift_resources_and_demos.adoc[Openshift]
+* link:ansible_resources_and_demos.adoc[Ansible]
