@@ -8,7 +8,9 @@
 
 * link:https://learn.openshift.com/[Interactive Learning Portal]
 
-* link:https://access.redhat.com/search/#/?q=openshift&p=1&sort=relevant&scoped&documentKind=Documentation[OCP Documentation Page]
+* link:https://docs.openshift.com/[OpenShift Documentation Page]
+
+* link:https://access.redhat.com/search/#/?q=openshift&p=1&sort=relevant&scoped&documentKind=Documentation[More OCP Documentation]
 
 * link:https://cloud.redhat.com/blog[OCP Hybrid Cloud Blog]
 
