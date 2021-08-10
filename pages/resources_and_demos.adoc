@@ -1,9 +1,8 @@
 
 * link:openshift_resources_and_demos.adoc[OCP (Openshift Container Platform)]
 * link:ansible_resources_and_demos.adoc[Ansible]
-// rhel
-// satellite
-// insights
-// Middleware
-// RH Virt
-
+* link:rhel_resources_and_demos.adoc[RHEL (Red Hat Enterprise Linux)]
+* link:satellite_resources_and_demos.adoc[Satellite]
+* link:insights_resources_and_demos.adoc[Insights]
+* link:middleware_resources_and_demos.adoc[Middleware]
+* link:rhvirt_resources_and_demos.adoc[Red Hat Virt]
