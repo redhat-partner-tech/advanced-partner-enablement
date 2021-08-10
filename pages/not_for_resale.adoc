@@ -4,4 +4,3 @@
 
 * link:https://access.redhat.com/solutions/5181471[What are 'Not for Resale' (NFR) subscriptions?]
 
-*
