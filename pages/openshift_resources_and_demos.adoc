@@ -1,18 +1,15 @@
 
-= Openshift Resources https://www.openshift.com
+# Openshift Resources https://www.openshift.com
 
-Openshift is a container platform for Kubernetes. You can use Openshift when you want to build, develop, and deploy business-critical applications quickly and securely.
-
-
+### Openshift is a container platform for Kubernetes. You can use Openshift when you want to build, develop, and deploy business-critical applications quickly and securely.
 
 
-Openshift Demos and Workshops:
+* link:https://demo.openshift.com[OCP Demos and Workshops]
 
-* https://demo.openshift.com
+* link:https://learn.openshift.com/[Interactive Learning Portal]
 
+* link:https://access.redhat.com/search/#/?q=openshift&p=1&sort=relevant&scoped&documentKind=Documentation[OCP Documentation Page]
 
+* link:https://cloud.redhat.com/blog[OCP Hybrid Cloud Blog]
 
-Openshift Interactive Learning Portal:
-
-* https://learn.openshift.com/
-
+* link:https://www.youtube.com/user/rhopenshift[Red Hat OCP Youtube Channel]
