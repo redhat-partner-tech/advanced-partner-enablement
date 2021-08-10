@@ -1,8 +1,11 @@
-= Red Hat Partner Connect
+= https://connect.redhat.com/en/partner-with-us/build-software[Red Hat Partner Connect]
 
 *Red Hat Partner Connect* is a partner community where we work together to build ideal customer solutions and support the services you provide with our products.
 
 As a Partner this is where you can become part of our campaigns to cut through the noise of today's marketing environments. We'll help you differentiate your brand as an open source partner and provide training every step of the way.
+
+* https://redhat-connect.gitbook.io/certification-guides/[Certification Guides]
+* https://redhat-connect.gitbook.io/red-hat-partner-connect-general-guide/[General Program Guide for Partners]
 
 [.lead]
 To access Partner Training go to link:https://www.redhat.com/en[https://www.redhat.com/en^] and click on the "Websites" link (see image below).
