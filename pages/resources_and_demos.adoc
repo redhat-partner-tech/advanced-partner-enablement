@@ -6,3 +6,12 @@
 * link:insights_resources_and_demos.adoc[Insights]
 * link:middleware_resources_and_demos.adoc[Middleware]
 * link:rhvirt_resources_and_demos.adoc[Red Hat Virt]
+
+// adoc not made
+* Red Hat Quay            // https://redhat.highspot.com/items/5b856094af772d44305656e5#2
+
+* Openstack               // https://redhat.highspot.com/items/5966647772ad8e20778bc2a0
+
+* Ceph Storage
+
+* Gluster FS
