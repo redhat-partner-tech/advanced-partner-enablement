@@ -4,16 +4,17 @@ The following is a curated a list of COE guides and write-ups that we are provid
 
 Red Hat related
 ---------------
-* https://www.perficient.com/-/media/files/guide-pdf-links/five-guiding-principles-of-a-successful-center-of-excellence.pdf
-* https://www.persistent.com/blogs/persistent-and-red-hat-launch-center-of-excellence-to-accelerate-application-modernization-on-hybrid-cloud/
+* https://www.perficient.com/-/media/files/guide-pdf-links/five-guiding-principles-of-a-successful-center-of-excellence.pdf[Five Guiding Principles of a Successful Center of Excellence (PDF)]
+* https://www.persistent.com/blogs/persistent-and-red-hat-launch-center-of-excellence-to-accelerate-application-modernization-on-hybrid-cloud/[Persistent and Red Hat Launch Center of Excellence to Accelerate Application Modernization on Hybrid Cloud (Blog)]
 
 
 Other
 -----
-* https://www.salesforce.com/blog/2017/02/center-of-excellence-curse.html
-* https://www.cleverism.com/how-set-up-center-excellence/
-* https://www.gartner.com/en/documents/3882570/ignition-guide-to-establishing-a-center-of-excellence-co
-* https://seilevel.com/wp-content/uploads/Seilevel_RCOE_v1.pdf
-* https://www.pmi.org/learning/library/program-management-center-excellence-6932
-* https://services.google.com/fh/files/misc/cloud_center_of_excellence.pdf
-* https://lish.harvard.edu/files/lish/files/establishing_a_center_of_excellence_to_scale_and_sustain_open_innovation_feb_7_2019.pdf
+* https://www.salesforce.com/blog/2017/02/center-of-excellence-curse.html[Overcoming the Curse of the Center of Excellence Model (Blog)]
+* https://www.cleverism.com/how-set-up-center-excellence/[How to Set Up a Center of Excellence (Article)]
+* https://www.gartner.com/en/documents/3882570/ignition-guide-to-establishing-a-center-of-excellence-co[Ignition Guide to Establishing a Center of Excellence]
+* https://seilevel.com/wp-content/uploads/Seilevel_RCOE_v1.pdf[Creating a Requirements Center  
+of Excellence (PDF)]
+* https://www.pmi.org/learning/library/program-management-center-excellence-6932[Program management center of excellence, the cornerstone of business transformation (Conference Paper)]
+* https://services.google.com/fh/files/misc/cloud_center_of_excellence.pdf[Building a Cloud Center of Excellence (PDF)]
+* https://lish.harvard.edu/files/lish/files/establishing_a_center_of_excellence_to_scale_and_sustain_open_innovation_feb_7_2019.pdf[Establishing a Center of Excellence to Scale and Sustain Open Innovation (PDF)]
