@@ -1,3 +1,6 @@
+Openshift is a container platform for Kubernetes. You can use Openshift when you want to build, develop, and deploy business-critical applications quickly and securely.
+
+
 = Openshift Resources https://www.openshift.com
 
 Openshift Demos and Workshops:
