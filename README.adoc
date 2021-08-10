@@ -14,7 +14,7 @@ Click on the links below to learn more about individual areas:
 =============================================================================
 
 
-* link:pages/red_hat_partner_connect.adoc[Red Hat Partner Connect]
+* Building Partner Solutions with link:pages/red_hat_partner_connect.adoc[Red Hat Partner Connect]
 * link:pages/areas_of_focus.adoc[Key content]
 ** Workshops ( link:pages/using_red_hat_rhpds.adoc[Using Red Hat Product Demo System (RHPDS)] )
 ** Reference Architectures
@@ -29,7 +29,6 @@ Click on the links below to learn more about individual areas:
 * link:pages/not_for_resale.adoc[Not for Resale (NFR) Subscriptions]
 * link:pages/partner_support.adoc[Partner Support]
 * link:pages/red_hat_coe.adoc[Red Hat COE]
-* link:pages/partner_solutions.adoc[Partner Solutions]
 * link:pages/resources_and_demos.adoc[Resources and Demos]
 
 ================================================================================
