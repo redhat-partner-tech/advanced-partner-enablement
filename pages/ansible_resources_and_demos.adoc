@@ -3,4 +3,9 @@
 ### Ansible is an automation platform that automates cumbersome, repetitive or complex tasks.
 
 
+* link:https://www.youtube.com/channel/UCPJo5UY1KsP7J1BuHmiWNzQ[Red Hat Ansible Automation Youtube Channel]
+
+* link:https://www.ansible.com/resources/videos[Ansible Videos Page]
+
+* link:https://www.youtube.com/playlist?list=PL2_OBreMn7FplshFCWYlaN2uS8et9RjNG[More Info About Ansible (Youtube Playlist)]
 
