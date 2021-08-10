@@ -1,1 +1,7 @@
+= Red Hat Not For Resale (NFR) Subscriptions
 
+### As a partner you have access to all of Red Hat software for development purposes at no cost to you. This is what we refer to as "Not For Resale (NFR) Subscriptions".
+
+* link:https://access.redhat.com/solutions/5181471[What are 'Not for Resale' (NFR) subscriptions?]
+
+*
