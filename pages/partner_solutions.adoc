@@ -9,8 +9,3 @@ When you build and certify on Red Hat platforms, together we ensure your solutio
 * Build trust and customer confidence by offering collaborative support with Red Hat and https://connect.redhat.com/partner-with-us/technical-support-alliance-network[TSANet]
 * Generate market awareness and customer demand through placement and promotion on the http://catalog.redhat.com/[Red Hat Ecosystem Catalog]
 
-## Go to https://connect.redhat.com/en/partner-with-us/build-software[Red Hat Partner Connect]
-
-
-* https://redhat-connect.gitbook.io/certification-guides/[Certification Guides]
-* https://redhat-connect.gitbook.io/red-hat-partner-connect-general-guide/[General Program Guide for Partners]
