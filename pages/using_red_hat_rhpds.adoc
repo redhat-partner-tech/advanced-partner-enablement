@@ -26,7 +26,7 @@ image::images/Ansible-90-Tower-Workshop-Order.jpg[]
 
 Once an item is ordered, fill out the form and click the Submit button to request the environment. You will be taken to the Request screen automatically and will receive emails on the progress. The last email will contain helpful links and information to access your environment.
 
-*Note:* on most of the workshop order forms you will need to provide either a SFDC Opportunity, Campaign ID, or Partner Registration number.
+NOTE: On most of the workshop order forms, you will need to provide either a SFDC Opportunity, Campaign ID, or Partner Registration number.
 
 image::images/RHPDS-SubMenu-Request.jpg[]
 
