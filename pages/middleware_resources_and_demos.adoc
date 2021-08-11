@@ -1,1 +1,5 @@
+# Middleware
 
+Middleware is software that provides common services and capabilities to applications outside of what’s offered by the operating system, providing services like; Data management, application services, messaging, authentication, and API management. Middleware helps developers build applications more efficiently.
+
+For organizations with multi-cloud and containerized environments, middleware can make it cost-effective to develop and run applications at scale. To learn more about Middleware, click link:https://www.redhat.com/en/topics/middleware/what-is-middleware[HERE]
