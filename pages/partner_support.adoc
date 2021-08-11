@@ -9,7 +9,7 @@ NOTE: _Partners that do not have an email address with the customer domain can n
 ============================
 - There are active, supported subscriptions in the customer's account 
 ==============================================================
-- Does the person that is opening the support case have an email address domain that matches the customer account?
+- The person opening the support case has the same email address domain as the customer account
 
 
 
