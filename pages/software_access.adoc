@@ -1,1 +1,17 @@
 = Software Access
+
+## Overall Process
+1. Have redhat.com account (required for Partner Connect access)
+
+2. Submit NFR request
+
+3. Once approved, software shows up for download @ https://access.redhat.com/management
+
+// Personal vs. Corporate redhat.com accounts (Corp account required)
+
+// Subscription & Account Mgmt
+
+### Evals & Developer Subs
+
+* Most supported product evals are for either 60 or 90 days -- https://access.redhat.com/products 
+Evals FAQ
