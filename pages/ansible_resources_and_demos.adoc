@@ -1,6 +1,6 @@
-= Ansible Resources https://www.ansible.com
+# Ansible Resources 
 
-### Ansible is an automation platform that automates cumbersome, repetitive or complex tasks.
+Ansible is an automation platform that automates cumbersome, repetitive or complex tasks. Access Ansible link:https://www.ansible.com[HERE].
 
 
 * link:https://docs.ansible.com/[Ansible Documentation]
