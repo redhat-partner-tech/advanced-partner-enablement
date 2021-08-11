@@ -16,7 +16,7 @@ When you log on you are presented with a single menu option “Services” with 
 
 * *My Services* - Services that I have ordered and are currently running
 * *Catalog* - The Catalog of available services that I can order
-* *Requests* - Requests are are currently underway. 
+* *Requests* - Requests are currently underway. 
 
 image::images/RHPDS-SubMenu-Catalog-Exploded.jpg[]
 
