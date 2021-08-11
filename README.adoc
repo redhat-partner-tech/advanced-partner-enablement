@@ -14,7 +14,6 @@ Click on the links below to learn more about individual areas:
 =============================================================================
 
 
-* Building Partner Solutions with link:pages/red_hat_partner_connect.adoc[Red Hat Partner Connect]
 * link:pages/areas_of_focus.adoc[Key content]
 ** Workshops ( link:pages/using_red_hat_rhpds.adoc[Using Red Hat Product Demo System (RHPDS)] )
 ** Reference Architectures
@@ -24,6 +23,7 @@ Click on the links below to learn more about individual areas:
 * link:pages/partner_content_hub.adoc[Partner Content Hub]
 * link:pages/advanced_technical_training.adoc[Advanced Technical Training]
 * link:pages/poc_support_options.adoc[POC Support Options]
+* Building Partner Solutions with link:pages/red_hat_partner_connect.adoc[Red Hat Partner Connect]
 * link:pages/red_hat_subs_review.adoc[Red Hat Subscriptions Review]
 * link:pages/software_access.adoc[Software Access]
 * link:pages/not_for_resale.adoc[Not for Resale (NFR) Subscriptions]
