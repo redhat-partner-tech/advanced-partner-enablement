@@ -1,4 +1,4 @@
-= RHEL (link:https://www.redhat.com/en/technologies/linux-platforms/enterprise-linux?intcmp=7013a0000026H3vAAE[Red Hat Enterprise Linux])
+# RHEL (link:https://www.redhat.com/en/technologies/linux-platforms/enterprise-linux?intcmp=7013a0000026H3vAAE[Red Hat Enterprise Linux])
 
-### Red Hat Enterprise Linux (RHEL) is Red Hat's commercialized Linux distribution and works on desktops, on servers, in hypervisors or in the cloud. RHEL supports and powers software and technologies for automation, cloud, containers, middleware, storage, application development, microservices, virtualization, management, and more.
+Red Hat Enterprise Linux (RHEL) is Red Hat's commercialized Linux distribution and works on desktops, on servers, in hypervisors or in the cloud. RHEL supports and powers software and technologies for automation, cloud, containers, middleware, storage, application development, microservices, virtualization, management, and more.
 
