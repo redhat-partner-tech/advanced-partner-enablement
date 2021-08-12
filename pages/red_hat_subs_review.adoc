@@ -4,9 +4,9 @@ _This section has information regarding subscriptions for the Partner._
 
 
 = Overall Process
-1) Have redhat.com account  (required for Partner Connect access)
+### 1) Have redhat.com account  (required for Partner Connect access)
 
-2) Submit a link:https://github.com/redhat-partner-tech/advanced-partner-enablement/blob/master/pages/not_for_resale.adoc[Not For Resale] request
+### 2) Submit a link:https://github.com/redhat-partner-tech/advanced-partner-enablement/blob/master/pages/not_for_resale.adoc[Not For Resale] request
 
 In order to access and manage all of your NFR subscription needs, login to the link:https://partnercenter.redhat.com/Dashboard_page[Red Hat Partner Connect Dashboard^].  
 
@@ -24,7 +24,7 @@ Also further down on this page, links are available for the *NFR subscription gu
 image::images/nfr_links.jpg[]
 
 
-3) Once approved, software shows up for download at https://access.redhat.com/management
+### 3) Once approved, software shows up for download link:https://access.redhat.com/management[HERE]
 
 NOTE: **YOU CANNOT USE PERSONAL ACCOUNTS FOR A PARTNER SUBSCRIPTION. YOU MUST USE A CORPORATE ACCOUNT.**
 
