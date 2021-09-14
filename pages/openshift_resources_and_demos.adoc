@@ -15,3 +15,5 @@ Openshift is a container platform for Kubernetes. You can use Openshift when you
 * link:https://cloud.redhat.com/blog[OCP Hybrid Cloud Blog]
 
 * link:https://www.youtube.com/user/rhopenshift[Red Hat OCP Youtube Channel]
+
+* link:https://console.redhat.com/openshift[Red Hat console for OpenShift]
