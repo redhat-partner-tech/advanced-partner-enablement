@@ -3,8 +3,8 @@
 All Red Hat Products: https://www.redhat.com/en/technologies
 
 #### Container Platforms 
-- OpenShift Container Platform: link:http://www.redhat.com[Partner Onestop], link:openshift_resources_and_demos.adoc[Additional Resources]
-- Red Hat Quay: link:http://www.redhat.com[Partner Onestop], link:quay_resources_and_demos.adoc[Additional Resource]
+- OpenShift Container Platform -- link:http://www.redhat.com[Partner Onestop], link:openshift_resources_and_demos.adoc[Additional Resources]
+- Red Hat Quay -- link:http://www.redhat.com[Partner Onestop], link:quay_resources_and_demos.adoc[Additional Resource]
 
 #### Infrastructure Software
 - link:rhel_resources_and_demos.adoc[RHEL (Red Hat Enterprise Linux)]
