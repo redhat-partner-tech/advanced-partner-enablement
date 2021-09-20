@@ -1,7 +1,6 @@
-# Technical Resources by Product
+## Technical Resources by Product
 
-All Red Hat Product Offerings: https://www.redhat.com/en/technologies 
-Offerings & Software Tools: https://access.redhat.com/products
+Info: link:https://www.redhat.com/en/technologies[All Red Hat Products] , link:https://access.redhat.com/products[Product Docs]
 
 #### Container Platforms 
 - OpenShift Container Platform -- link:http://www.redhat.com[Partner Onestop], link:openshift_resources_and_demos.adoc[Additional Resources]
