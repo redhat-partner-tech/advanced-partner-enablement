@@ -8,6 +8,8 @@ All Red Hat Products: https://www.redhat.com/en/technologies
 
 #### Infrastructure Software
 - link:rhel_resources_and_demos.adoc[RHEL (Red Hat Enterprise Linux)]
+- link:openstack_resources_and_demos.adoc[Openstack]
+- link:rhvirt_resources_and_demos.adoc[Red Hat Virt]
 - link:ceph_resources_and_demos.adoc[Ceph Storage]
 - link:gluster_resources_and_demos.adoc[Gluster FS]
 - Red Hat Identity Management
@@ -19,12 +21,16 @@ All Red Hat Products: https://www.redhat.com/en/technologies
 
 #### Cloud-Native Application Development
 - link:middleware_resources_and_demos.adoc[Application Services]
+- Red Hat Integration
+  - Fuse
+  - AMQ
+  - 3scale API Mgmt
+- Developer Tools
+- Decision Manager
+- Process Automation Manager
+- JBoss EAP
+- Data Science
 
+  
 
-// no more middleware, name is gone :(
-* link:rhvirt_resources_and_demos.adoc[Red Hat Virt]
-
-// https://redhat.highspot.com/items/5b856094af772d44305656e5#2
-* link:openstack_resources_and_demos.adoc[Openstack]
-// https://redhat.highspot.com/items/5966647772ad8e20778bc2a0
 
