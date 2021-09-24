@@ -1,1 +1,11 @@
+* Introduction to Red Hat Insights: https://www.youtube.com/watch?v=MdT4xrlIvpY
 
+* Overview of Red Hat Insights: https://www.youtube.com/watch?v=uOL1_NBDQp4
+
+* Demonstration of Red Hat Insights: https://www.youtube.com/watch?v=kKzjJYxX07o
+
+* How to use Red Hat Insights: https://www.redhat.com/sysadmin/how-red-hat-insights
+
+* Product information: https://access.redhat.com/products/red-hat-insights/
+
+* Product documentation: https://access.redhat.com/documentation/en-us/red_hat_insights/2021
