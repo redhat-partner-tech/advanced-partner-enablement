@@ -20,6 +20,7 @@ Info: link:https://www.redhat.com/en/technologies[All Red Hat Products] , link:h
 - link:insights_resources_and_demos.adoc[Insights]
 
 #### Cloud-Native Application Development
+- Workshops: link:https://github.com/redhat-middleware-workshops[*RH Middleware Workshops*]
 - link:middleware_resources_and_demos.adoc[Application Services]
 - Red Hat Integration
   - Fuse
