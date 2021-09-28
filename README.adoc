@@ -9,6 +9,8 @@
 
 =============================================================================
 
+While most of this information is outlined on link:https://connect.redhat.com[Red Hat Partner Connect], below are resources meant to supplement the technical-side of Red Hat Business Partner programs.
+
 =============================================================================
 Click on the links below to learn more about individual areas:
 =============================================================================
