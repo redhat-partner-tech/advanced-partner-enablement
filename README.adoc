@@ -32,6 +32,7 @@ Click on the links below to learn more about individual areas:
 * link:pages/partner_support.adoc[Partner Support]
 * link:pages/red_hat_coe.adoc[Red Hat COE]
 * link:pages/resources_and_demos.adoc[Resources and Demos]
+* link:pages/redhat_ibm_cloudpak_guidance.adoc[OpenShift Guidance for IBM Cloud Paks]
 
 ================================================================================
 
